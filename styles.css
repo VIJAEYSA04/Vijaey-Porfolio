@@ -1,0 +1,30 @@
+img
+{
+
+  border-radius:50%;
+  width:100px;
+  position: relative;
+  height:100px;
+
+  left: 120px;
+
+}
+.h2ofmyself
+{
+  position: relative;
+  bottom: 75px;
+left: 250px;
+  font-size: 10px;
+}
+.h1ofmyself
+{
+  position: relative;
+  bottom: 100px;
+left: 250px;
+  font-size: 10px;
+}
+#myinfo
+{
+ /* //height: 200px; */
+width: 200px;
+}
