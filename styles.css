@@ -1,0 +1,112 @@
+.designforheading
+{
+  width: 20%;
+    background-color: #DECE9C;
+}
+
+.myself
+{
+  height: 600px;
+}
+.projects
+{
+  height:550px;
+}.skills
+{
+  height:550px;
+}.resume
+{
+  height:500px;
+}
+
+#line1
+{
+/* position */
+  position: relative;
+  top:50px;
+  left: 500px;
+
+  font-family: 'Style Script', cursive;
+  /* size */
+  font-size:45px;
+  width: 20%;
+  background-color:#DECE9C;
+  text-align: center;
+
+
+}
+#line2
+{
+  /* size */
+  font-size: 18px;
+  width: 50%;
+  /* position */
+  position: relative;
+  top: 130px;
+  left: 280px;
+  background-color: #FEFCF3;
+  font-family: 'Barlow Condensed', sans-serif;
+
+}
+.about
+{
+  position: relative;
+  top:100px;
+  left: 280px;
+  width: 9%;
+    background-color: #DECE9C;
+}
+.photo
+{
+  /* position */
+  position: relative;
+  bottom: 180px;
+left: 10px;
+/* size */
+  width: 20%;
+  height: auto;
+  border-radius: 50%;
+
+}
+.tree
+{
+  position: relative;
+  width: 33%;
+  left: 575px;
+  bottom: 300px;
+
+}
+.birds
+{
+  position: relative;
+  width: 35%;
+  bottom: 400px;
+  right: 700px;
+}
+
+#projectheading
+{
+  position: relative;
+  left: 500px;
+  font-family: 'Style Script', cursive;
+  font-size:45px;
+  width: 20%;
+  background-color:#DECE9C;
+  text-align: center;
+
+}
+td{
+  text-align: center;
+padding-top:30px;
+}
+  table {
+  border-collapse: separate;
+  border-spacing: 0 15px;
+}
+
+
+.footer
+{
+  background-color: #333333;
+  height: 50px;
+}
